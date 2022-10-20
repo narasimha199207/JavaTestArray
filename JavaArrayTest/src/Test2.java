@@ -4,6 +4,7 @@ public class Test {
 	
 	int array[]= {10,};
 	System.out.println(array.length);
+	System.out.println("changed content");
 	
 	
 
